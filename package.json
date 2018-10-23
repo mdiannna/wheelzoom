@@ -19,5 +19,6 @@
 	"repository": {
 		"type": "git",
 		"url": "http://github.com/jackmoore/wheelzoom.git"
-	}
+	},
+	"dependencies": {}
 }
